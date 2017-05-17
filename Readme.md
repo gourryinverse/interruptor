@@ -1,5 +1,7 @@
 # Usage
-This driver produces unexpected results on E5-2650, i7-6700.  Ubuntu 4.6.4, Ubuntu 4.8.0, Ubuntu 4.10.x.  Most testing done on Ubuntu 4.6.4.
+This driver produces unexpected results on E5-2650, i7-6700.  
+
+Ubuntu with linux kernels 4.6.4, 4.8.0, and 4.10.x.  Most testing done on Ubuntu 4.6.4.
 
 Expected: Always 0  
 
